@@ -4,14 +4,14 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/promahmudul/">
+<a href="https://www.linkedin.com/in/shahinur-mw">
   <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/ProMahmudul">
-  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
+<a href="https://www.facebook.com/md.shahahinurrahaman">
+  <img align="center" alt="Shahinur's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="Shahinur's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
  </p>
 
 
@@ -33,8 +33,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 - 🛠 &nbsp; I’m currently working with Laravel, Vue and React.
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
-- 📫 &nbsp; How to reach me: mailto:coredeveloper.2013@gmail.com.
-- 📝 &nbsp; Checkout my https://drive.google.com/file/d/1uYNW7j1htW7Zmcsw2ztRFMJmylgEFEBm/view.
+- 📫 &nbsp; How to reach me: <coredeveloper.2013@gmail.com>.
 
 ### My Absolute Favorites:
 
@@ -46,31 +45,31 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 <br />
 
 ### - Languages
-!https://img.shields.io/badge/-Html-000?&logo=html5&logoColor=fff
-!https://img.shields.io/badge/-Css-000?&logo=Css3&logoColor=fff
-!https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=fff
-!https://img.shields.io/badge/-Php-000?&logo=php&logoColor=fff
-!https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=fff
-!https://img.shields.io/badge/-C-000?&logo=c&logoColor=fff
-!https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=fff
+![](https://img.shields.io/badge/-Html-000?&logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/-Css-000?&logo=Css3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=fff)
+![](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=fff)
+![](https://img.shields.io/badge/-C-000?&logo=c&logoColor=fff)
+![](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=fff)
 
 ### - Frameworks, CMS & Libraries
-!https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff
-!https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter&logoColor=fff
-!https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff
-!https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=fff
-!https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=fff
-!https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=fff
-!https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=fff
-!https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff
-!https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=fff
-!https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=fff
+![](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
+![](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter&logoColor=fff)
+![](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=fff)
+![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=fff)
+![](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=fff)
+![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=fff)
+![](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff)
+![](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=fff)
 
 ### - Tools & Technologies
-!https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff
-!https://img.shields.io/badge/-Adobe&nbsp;Photoshop-000?&logo=Adobe-Photoshop&logoColor=fff
-!https://img.shields.io/badge/-Adobe&nbsp;Illustrator-000?&logo=Adobe-illustrator&logoColor=fff
-!https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=fff
+![](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff)
+![](https://img.shields.io/badge/-Adobe&nbsp;Photoshop-000?&logo=Adobe-Photoshop&logoColor=fff)
+![](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-000?&logo=Adobe-illustrator&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=fff)
 
 
 
