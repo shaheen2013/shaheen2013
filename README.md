@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://mahmudulhassan.me">Mahmudul</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Shahinur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
@@ -7,9 +7,7 @@
 <a href="https://www.linkedin.com/in/promahmudul/">
   <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://mahmudulhassan.me/">
-  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>
+
 <a href="https://facebook.com/ProMahmudul">
   <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
@@ -18,24 +16,24 @@
 
 
 <div align="center">
-<h3>👨‍ Mahmudul Hassan | 💻 Software Engineer | 🛸 Dhaka, Bangladesh</h3>
+<h3>👨‍ Shahinur Rahman | 💻 Full Stack Software Developer | 🛸 Dhaka, Bangladesh</h3>
 </div>
 
 <hr>
 
 ### Glad To See You Here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
 
-I'm a 25 years old software developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
+I'm a 35 years old software developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/ProMahmudul/ProMahmudul/main/code.gif" />
 
 ### Talking About Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel and React.
+- 🛠 &nbsp; I’m currently working with Laravel, Vue and React.
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
-- 📫 &nbsp; How to reach me: mailto:mahmudul.coder@gmail.com.
+- 📫 &nbsp; How to reach me: mailto:coredeveloper.2013@gmail.com.
 - 📝 &nbsp; Checkout my https://drive.google.com/file/d/1uYNW7j1htW7Zmcsw2ztRFMJmylgEFEBm/view.
 
 ### My Absolute Favorites:
