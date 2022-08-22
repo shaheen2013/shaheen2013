@@ -30,7 +30,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 
 ### Talking About Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel, Vue and React.
+- 🛠 &nbsp; I’m currently working with Laravel,Django, Python,Vue, React and ReactNative
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: <coredeveloper.2013@gmail.com>.
