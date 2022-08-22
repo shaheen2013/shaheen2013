@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/md.shahahinurrahaman">
   <img align="center" alt="Shahinur's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="Shahinur's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="Shahinur's Skype" src="https://img.shields.io/badge/ninjaprogrammer?style=flat-square&logo=skype&logoColor=white" />
  </p>
 
 
@@ -77,7 +77,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 
 <p align="center" >
 <a href="https://github.com/promahmudul/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ProMahmudul&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=shaheen2013&&show_icons=true&theme=radical"/>
   </a>
 </p>
 
