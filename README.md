@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/md.shahahinurrahaman">
   <img align="center" alt="Shahinur's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="Shahinur's Skype" src="https://img.shields.io/badge/ninjaprogrammer?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/ninjaprogrammer-0094E1?style=flat-square&logo=skype&logoColor=white" />
  </p>
 
 
