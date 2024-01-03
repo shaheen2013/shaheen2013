@@ -23,7 +23,7 @@
 
 ### Glad To See You Here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
 
-I'm a 35 years old software developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
+I'm a 35 years old software developer from Bangladesh. I mainly code in Php, Python and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/ProMahmudul/ProMahmudul/main/code.gif" />
@@ -69,6 +69,10 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 ![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=fff)
 ![](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=fff)
+![](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=fff)
+![](https://img.shields.io/badge/-ExpressJS-000?&logo=Express&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=fff)
+
 
 ### - Tools & Technologies
 ![](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff)
