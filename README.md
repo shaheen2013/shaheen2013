@@ -30,7 +30,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 
 ### Talking About Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel,Django, Python,Vue, React and ReactNative
+- 🛠 &nbsp; I’m currently working with Laravel, Django, Python, Vue, React, Golang, RUST, Next.js, Nuxt.js, MERN stack, Node.js and ReactNative
 - 🚀 &nbsp; I’m currently learning Blockchain.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: <coredeveloper.2013@gmail.com>.
@@ -52,6 +52,9 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 ![](https://img.shields.io/badge/-SQL-000?&logo=mysql&logoColor=fff)
 ![](https://img.shields.io/badge/-C-000?&logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=fff)
+![](https://img.shields.io/badge/-RUST-000?&logo=Rust&logoColor=fff).
+![](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=fff).
+![](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=fff).
 
 ### - Frameworks, CMS & Libraries
 ![](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
@@ -64,6 +67,8 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php and 
 ![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=fff)
+![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=fff)
+![](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=fff)
 
 ### - Tools & Technologies
 ![](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=fff)
