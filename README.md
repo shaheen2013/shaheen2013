@@ -23,7 +23,7 @@
 
 ### Glad To See You Here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
 
-I'm a 35 years old software developer from Bangladesh. I mainly code in Php, Python and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
+I'm a 35 years old software developer from Bangladesh. I mainly code in PHP, Python and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/ProMahmudul/ProMahmudul/main/code.gif" />
@@ -55,6 +55,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in Php, Pyt
 ![](https://img.shields.io/badge/-RUST-000?&logo=Rust&logoColor=fff).
 ![](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=fff).
 ![](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=fff).
+![](https://img.shields.io/badge/-ReactNative-000?&logo=Go&logoColor=fff).
 
 ### - Frameworks, CMS & Libraries
 ![](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
