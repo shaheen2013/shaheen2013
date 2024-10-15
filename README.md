@@ -55,7 +55,7 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in PHP, Pyt
 ![](https://img.shields.io/badge/-RUST-000?&logo=Rust&logoColor=fff).
 ![](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=fff).
 ![](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=fff).
-![](https://img.shields.io/badge/-ReactNative-000?&logo=Go&logoColor=fff).
+![](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative&logoColor=fff).
 
 ### - Frameworks, CMS & Libraries
 ![](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=fff)
