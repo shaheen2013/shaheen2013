@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Shahinur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Shahinur Rahman </h1>
 </div>
 
 <p align='center'>
@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<h3>👨‍ Shahinur Rahman | 💻 Full Stack Software Developer | 🛸 Dhaka, Bangladesh</h3>
+<h3>Shahinur Rahman | Full Stack Software Developer | Dhaka, Bangladesh</h3>
 </div>
 
 <hr>
@@ -91,6 +91,6 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in PHP, Pyt
 <br>
 
 <p align="center" >
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
