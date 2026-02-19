@@ -29,16 +29,16 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in PHP, Pyt
 
 ### Talking About Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel, Django, Python, Vue, React, Golang, RUST, Next.js, Nuxt.js, MERN stack, Node.js and ReactNative
-- 🚀 &nbsp; I’m currently learning Blockchain.
-- 💬 &nbsp; Ask me about anything! I am happy to help.
-- 📫 &nbsp; How to reach me: <coredeveloper.2013@gmail.com>.
+-  I’m currently working with Laravel, Django, Python, Vue, React, Golang, RUST, Next.js, Nuxt.js, MERN stack, Node.js and ReactNative
+-  I’m currently learning Blockchain.
+-  Ask me about anything! I am happy to help.
+-  How to reach me: <coredeveloper.2013@gmail.com>.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+-  I love exploring new tech stack and building cool stuffs.
+-  Reading tech blogs whenever possible.
+-  Hackathons, meetups & tech events.
 
 
 <br />
