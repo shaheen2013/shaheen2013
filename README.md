@@ -91,6 +91,6 @@ I'm a 35 years old software developer from Bangladesh. I mainly code in PHP, Pyt
 <br>
 
 <p align="center" >
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
 </p>
 
