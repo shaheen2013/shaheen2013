@@ -238,7 +238,7 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 <!-- STATS -->
 <div align="center">
 
-**10+ Years** · **120+ Engineers** · **850+ Projects** · **750+ Happy Clients** · **4.9⭐**
+**10+ Years** · **120+ Engineers** · **850+ Projects** · **750+ Happy Clients** · **5⭐**
 
 </div>
 
