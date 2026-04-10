@@ -111,7 +111,7 @@
 
 <div align="center">
 
-[![View All Case Studies](https://img.shields.io/badge/View_All_Case_Studies-0072B8?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://mediusware.com/case-study)
+[![View All Case Studies](https://img.shields.io/badge/View_All_Case_Studies-0072B8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mediusware.com/case-study)
 
 </div>
 
