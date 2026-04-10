@@ -25,19 +25,18 @@
 
 <br/>
 
-<!-- CLIENT LOGOS — add PNG files to portfolios/logos/ and replace this comment block -->
-<!-- Example row once logos are ready:
-<img src="portfolios/logos/client1.png" height="40" alt="Client 1" />&nbsp;&nbsp;
-<img src="portfolios/logos/client2.png" height="40" alt="Client 2" />&nbsp;&nbsp;
-<img src="portfolios/logos/client3.png" height="40" alt="Client 3" />
--->
+<img src="portfolios/logos/bulkly.png" height="36" alt="Bulk.ly" />&nbsp;&nbsp;&nbsp;
+<img src="portfolios/logos/lensfocus.png" height="36" alt="LensFocus" />&nbsp;&nbsp;&nbsp;
+<img src="portfolios/logos/nexivent.png" height="36" alt="Nexivent" />&nbsp;&nbsp;&nbsp;
+<img src="portfolios/logos/housebrands.png" height="36" alt="Housebrands" />&nbsp;&nbsp;&nbsp;
+<img src="portfolios/logos/ourstoryz.png" height="36" alt="OurStoryz" />
 
 <br/>
 
 | | |
 |:---|:---|
-| ✦ Built AI systems that reduced support workload by 40%+ for clients | ✦ Delivered SaaS platforms now serving 100K+ active users |
-| ✦ Served clients across Fintech, Healthcare, E-commerce, EdTech, Real Estate & Logistics | ✦ 100% on-time delivery across 850+ engagements worldwide |
+| ✦ 82% reduction in scheduling time for a global Martech SaaS client | ✦ SaaS platforms now serving 100K+ active users across 10+ countries |
+| ✦ Served clients across Healthcare, E-commerce, Real Estate, Event Management & Martech | ✦ 100% on-time delivery across 850+ engagements worldwide |
 
 </div>
 
@@ -65,14 +64,14 @@
 
 <div align="center">
   <img src="portfolios/ai/korra-ai.png" width="800" alt="Korra AI" />
-  <br/><sub>Korra AI — AI assistant platform · reduced support volume for clients</sub>
+  <br/><sub>Korra AI — AI-powered assistant platform · intelligent customer support automation</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="portfolios/ai/surrat-ai.png" width="800" alt="Surrat AI" />
-  <br/><sub>Surrat AI — LLM-powered automation · enterprise-grade</sub>
+  <img src="portfolios/php/lensix.jpg" width="800" alt="LensFocus" />
+  <br/><sub>LensFocus — Healthcare AI with OpenAI integration · 70% less manual auditing · 100K+ active users</sub>
 </div>
 
 <br/>
@@ -80,15 +79,15 @@
 ### 🚀 SaaS & Product Engineering
 
 <div align="center">
-  <img src="portfolios/javascript/b2b-rocket.png" width="800" alt="B2B Rocket" />
-  <br/><sub>B2B Rocket — B2B sales platform · scaled to global users</sub>
+  <img src="portfolios/python/nexivent.png" width="800" alt="Nexivent" />
+  <br/><sub>Nexivent — Event management SaaS · 2.4x execution efficiency · 40% smoother entry experience</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="portfolios/python/nexivent.png" width="800" alt="Nexivent" />
-  <br/><sub>Nexivent — Event management SaaS · multi-region</sub>
+  <img src="portfolios/javascript/bulk-ly.jpg" width="800" alt="Bulk.ly" />
+  <br/><sub>Bulk.ly — Social media automation SaaS · 82% less scheduling time · 2.4x posting frequency</sub>
 </div>
 
 <br/>
@@ -96,15 +95,15 @@
 ### 📱 Web & Mobile
 
 <div align="center">
-  <img src="portfolios/mobile/handy-man.png" width="800" alt="Handy Man" />
-  <br/><sub>Handy Man — On-demand services app · iOS & Android</sub>
+  <img src="portfolios/php/housebrands.jpg" width="800" alt="Housebrands" />
+  <br/><sub>Housebrands — B2B & B2C eCommerce platform · 3.2x more interactions · 60% less manual communication</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="portfolios/php/growtoro.png" width="800" alt="Growtoro" />
-  <br/><sub>Growtoro — Growth automation platform · SaaS</sub>
+  <img src="portfolios/php/ourstoryz.webp" width="800" alt="OurStoryz" />
+  <br/><sub>OurStoryz — Event booking platform · 42% more bookings · 2.4x faster RSVP collection</sub>
 </div>
 
 <br/>
