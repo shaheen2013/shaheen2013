@@ -30,8 +30,8 @@
   <img src="portfolios/logos/bulkly.png" height="36" alt="Bulk.ly" />
 </picture>&nbsp;&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/lensfocus-light.png">
-  <img src="portfolios/logos/lensfocus.png" height="36" alt="LensFocus" />
+  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/lensix-light.png">
+  <img src="portfolios/logos/lensix.png" height="36" alt="Lensix" />
 </picture>&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/nexivent-light.png">
