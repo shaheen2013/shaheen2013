@@ -25,11 +25,26 @@
 
 <br/>
 
-<img src="portfolios/logos/bulkly.png" height="36" alt="Bulk.ly" />&nbsp;&nbsp;&nbsp;
-<img src="portfolios/logos/lensfocus.png" height="36" alt="LensFocus" />&nbsp;&nbsp;&nbsp;
-<img src="portfolios/logos/nexivent.png" height="36" alt="Nexivent" />&nbsp;&nbsp;&nbsp;
-<img src="portfolios/logos/housebrands.png" height="36" alt="Housebrands" />&nbsp;&nbsp;&nbsp;
-<img src="portfolios/logos/ourstoryz.png" height="36" alt="OurStoryz" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/bulkly-light.png">
+  <img src="portfolios/logos/bulkly.png" height="36" alt="Bulk.ly" />
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/lensfocus-light.png">
+  <img src="portfolios/logos/lensfocus.png" height="36" alt="LensFocus" />
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/nexivent-light.png">
+  <img src="portfolios/logos/nexivent.png" height="36" alt="Nexivent" />
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="portfolios/logos/housebrands-light.png">
+  <img src="portfolios/logos/housebrands.png" height="36" alt="Housebrands" />
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="portfolios/logos/ourstoryz-dark.png">
+  <img src="portfolios/logos/ourstoryz.png" height="36" alt="OurStoryz" />
+</picture>
 
 <br/>
 
