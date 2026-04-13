@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0075B7,50:00A5A0,100:0075B7&height=230&section=header&text=Mediusware&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Custom%20Software%20Engineering%20for%20Global%20Startups%20and%20Businesses&descSize=16&descAlignY=54&descAlign=50" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Mediusware — AI & Custom Software Engineering" />
 
 <br/>
 
@@ -178,4 +178,4 @@ Let's talk about your project.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0075B7,50:00A5A0,100:0075B7&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
