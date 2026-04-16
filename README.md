@@ -49,7 +49,6 @@
 <br/>
 
 | | |
-|:---|:---|
 | ✦ 82% reduction in scheduling time for a global Martech SaaS client | ✦ SaaS platforms now serving 100K+ active users across 10+ countries |
 | ✦ Served clients across Healthcare, E-commerce, Real Estate, Event Management & Martech | ✦ 100% on-time delivery across 850+ engagements worldwide |
 
@@ -63,7 +62,7 @@
 
 <div align="center">
 
-| 🤖 AI & Automation | 🚀 SaaS & Product Engineering | 📱 Web & Mobile |
+|  AI & Automation |  SaaS & Product Engineering |  Web & Mobile |
 |:---:|:---:|:---:|
 | Custom AI/ML systems, LLM integrations, workflow automation & intelligent agents | End-to-end product development for global SaaS — from MVP to enterprise scale | React, Next.js, React Native & cross-platform mobile delivery |
 
@@ -75,7 +74,7 @@
 
 ## Selected Work
 
-### 🤖 AI & Automation
+###  AI & Automation
 
 <div align="center">
   <img src="portfolios/ai/korra-ai.png" width="800" alt="Korra AI" />
@@ -91,7 +90,7 @@
 
 <br/>
 
-### 🚀 SaaS & Product Engineering
+###  SaaS & Product Engineering
 
 <div align="center">
   <img src="portfolios/python/nexivent.png" width="800" alt="Nexivent" />
@@ -107,7 +106,7 @@
 
 <br/>
 
-### 📱 Web & Mobile
+###  Web & Mobile
 
 <div align="center">
   <img src="portfolios/php/housebrands.jpg" width="800" alt="Housebrands" />
