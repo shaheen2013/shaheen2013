@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="assets/header.svg" width="100%" alt="Mediusware — AI & Custom Software Engineering" />
+<img src="assets/header.svg" width="100%" alt="Mediusware- AI & Custom Software Engineering" />
 
 <br/>
 
@@ -47,11 +47,9 @@
 </picture>
 
 <br/>
-
-| | |
-| ✦ 82% reduction in scheduling time for a global Martech SaaS client | ✦ SaaS platforms now serving 100K+ active users across 10+ countries |
-| ✦ Served clients across Healthcare, E-commerce, Real Estate, Event Management & Martech | ✦ 100% on-time delivery across 850+ engagements worldwide |
-
+<br/>
+✦ 82% reduction in scheduling time for a global Martech SaaS client | ✦ SaaS platforms now serving 100K+ active users across 10+ countries |
+✦ Served clients across Healthcare, E-commerce, Real Estate, Event Management & Martech | ✦ 100% on-time delivery across 850+ engagements worldwide
 </div>
 
 <br/>
@@ -64,7 +62,7 @@
 
 |  AI & Automation |  SaaS & Product Engineering |  Web & Mobile |
 |:---:|:---:|:---:|
-| Custom AI/ML systems, LLM integrations, workflow automation & intelligent agents | End-to-end product development for global SaaS — from MVP to enterprise scale | React, Next.js, React Native & cross-platform mobile delivery |
+| Custom AI/ML systems, LLM integrations, workflow automation & intelligent agents | End-to-end product development for global SaaS- from MVP to enterprise scale | React, Next.js, React Native & cross-platform mobile delivery |
 
 </div>
 
@@ -78,14 +76,14 @@
 
 <div align="center">
   <img src="portfolios/ai/korra-ai.png" width="800" alt="Korra AI" />
-  <br/><sub>Korra AI — AI-powered assistant platform · intelligent customer support automation</sub>
+  <br/><sub>Korra AI- AI-powered assistant platform · intelligent customer support automation</sub>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="portfolios/php/lensix.jpg" width="800" alt="LensFocus" />
-  <br/><sub>LensFocus — Healthcare AI with OpenAI integration · 70% less manual auditing · 100K+ active users</sub>
+  <br/><sub>LensFocus- Healthcare AI with OpenAI integration · 70% less manual auditing · 100K+ active users</sub>
 </div>
 
 <br/>
@@ -94,14 +92,14 @@
 
 <div align="center">
   <img src="portfolios/python/nexivent.png" width="800" alt="Nexivent" />
-  <br/><sub>Nexivent — Event management SaaS · 2.4x execution efficiency · 40% smoother entry experience</sub>
+  <br/><sub>Nexivent- Event management SaaS · 2.4x execution efficiency · 40% smoother entry experience</sub>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="portfolios/javascript/bulk-ly.jpg" width="800" alt="Bulk.ly" />
-  <br/><sub>Bulk.ly — Social media automation SaaS · 82% less scheduling time · 2.4x posting frequency</sub>
+  <br/><sub>Bulk.ly- Social media automation SaaS · 82% less scheduling time · 2.4x posting frequency</sub>
 </div>
 
 <br/>
@@ -110,14 +108,14 @@
 
 <div align="center">
   <img src="portfolios/php/housebrands.jpg" width="800" alt="Housebrands" />
-  <br/><sub>Housebrands — B2B & B2C eCommerce platform · 3.2x more interactions · 60% less manual communication</sub>
+  <br/><sub>Housebrands- B2B & B2C eCommerce platform · 3.2x more interactions · 60% less manual communication</sub>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="portfolios/php/ourstoryz.webp" width="800" alt="OurStoryz" />
-  <br/><sub>OurStoryz — Event booking platform · 42% more bookings · 2.4x faster RSVP collection</sub>
+  <br/><sub>OurStoryz- Event booking platform · 42% more bookings · 2.4x faster RSVP collection</sub>
 </div>
 
 <br/>
